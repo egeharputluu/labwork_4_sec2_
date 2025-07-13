@@ -1,1 +1,1 @@
-Basic Library Software System with Java. Also includes functional testings. 
+Library Software System for students and library staffs. Developed with Java. Also includes functional testings. 
